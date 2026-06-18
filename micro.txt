@@ -1,0 +1,9 @@
+git init 
+git config user.name "hussain"
+git config user.email "runhussain01@gmail.com"
+git add .
+git commit -m "commting micro.txt" micro.txt
+git remote add origin url
+git push origin main
+git pull origin main
+
