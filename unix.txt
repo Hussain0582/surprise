@@ -1,0 +1,11 @@
+default user :who
+list all the users :cat /etc/passwd
+switch root  : sudo su root
+create users : adduser user_name
+to switch other : su user_name
+along with dir :su -username
+delete ; userdel user_name
+delete along with dir : userdel -username
+particular user : genent passwd user_name
+id user name : id user_name
+for exit : exit
