@@ -1,0 +1,8 @@
+git init
+git config user.name "hussain"
+git config user.name "runhussain01@gmail.com"
+git add .
+git commit -m "commiting apple.txt " apple.txt"
+git remote add origin url 
+git push origin main
+git pull origin main
